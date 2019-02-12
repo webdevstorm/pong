@@ -16,6 +16,9 @@ A basic pong game using SVGs.
 
 `> npm run build`
 
+**Added Feature:**
+`Although many attempts were made, unable to add stretch feature without freezing the game or breaking the code`
+
 ## Keys
 
 **Player 1:**
